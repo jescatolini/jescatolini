@@ -40,15 +40,6 @@ I'm a self-taught passionate FrontEnd developer from Brazil
 | <a href="https://github.com/jescatolini/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jescatolini&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Jhonata's github stats" /></a> | <a href="https://github.com/jescatolini/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jescatolini&layout=compact&theme=chartreuse-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/jescatolini/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jescatolini&repo=github-readme-stats&theme=blue-green" />
-</a>
-<a href="https://github.com/jescatolini/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jescatolini&repo=anuraghazra.github.io&theme=blue-green" />
-</a>
 
 <br />
 <br />
