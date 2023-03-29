@@ -2,7 +2,7 @@
  <p align="center"><a href="https://github.com/jescatolini"><img width="80%" alt="Hello World, I'm jhonata" src="https://media.discordapp.net/attachments/1007837203768021124/1014309050596462672/nome.png" /></a></p>
   <br />
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  ![Status](./profile-3d-contrib/profile-night-view.svg)
   
 
   
