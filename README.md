@@ -8,7 +8,7 @@
   
 
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jescatolini&bg_color=transparent&color=91D383&line=0305B5&point=91D383&area_color=0305B5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jescatolini&bg_color=transparent&color=91D383&line=0305B5&point=91D383&area_color=0305B5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jescatolini&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jescatolini&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
