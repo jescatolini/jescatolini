@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/jescatolini">
-    <img width="80%" alt="Hello World, I'm Jhonata" src="https://media.discordapp.net/attachments/1007837203768021124/1014309050596462672/nome.png" />
+    <img width="80%" alt="Hello World, I'm Jhonata" src="https://cdn-icons-png.flaticon.com/512/5986/5986092.png" />
   </a>
 </p>
 <br />
@@ -20,27 +20,20 @@
 ---
 
 <div align="center">
-
-| [![GitHub Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jescatolini&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jescatolini&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
-| ----------- | ----------- |
-
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img alt="GitHub Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jescatolini&theme=github_dark&utcOffset=-3" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img alt="GitHub Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jescatolini&theme=github_dark" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
-
-              - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
-            
-<p align="center">
-  <img alt="GitHub Contribution Snake Animation" src="https://github.com/jescatolini/jescatolini/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-<!-- Optionally include GitHub Streak Stats -->
-<!-- 
-<div align="center">
-  <a href="http://www.github.com/jescatolini">
-    <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=jescatolini&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" />
-  </a>
-</div>
--->
-
