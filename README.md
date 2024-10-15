@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/jescatolini">
-    <img width="80%" alt="Hello World, I'm Jhonata" src="https://cdn-icons-png.flaticon.com/512/5986/5986092.png" />
+    <img width="50%" alt="Hello World, I'm Jhonata" src="https://cdn-icons-png.flaticon.com/512/5986/5986092.png" />
   </a>
 </p>
 <br />
